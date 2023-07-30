@@ -1,0 +1,10 @@
+{
+    "events" : [
+        {
+            "id" : 1,
+            "title": "create server",
+            "descr" : "",
+            "date" : 1690578000
+        }
+    ]
+}
